@@ -1,1 +1,1 @@
-# Git-dash-commands
+# Git-commands
